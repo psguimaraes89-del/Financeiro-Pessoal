@@ -1,0 +1,44 @@
+,,Mês,,,,Resultado,Disponível,,,,Total Receita Janeiro,,,,,,,R$300.00,,Despesas Janeiro,,,,,,,(60.00),,,Cartão de Crédito (Janeiro),,,,0.00
+n,tipo,Jan/18,,,Resultado do Mês,R$ 240.00,R$ 120.00,,,,Entrada Receita Janeiro,,,,,,,R$300.00,,BB,-R$10.00,,Origem,Banco,Tipo,Data,Valor/Total,,,Origem,Tipo,data,Valor,
+Receitas,,,R$0.00,,Banco do Brasil,R$ 290.00,R$ 240.00,,,,Mês Anterior (dez/17),,,,,,,R$0.00,,Banri,-R$20.00,,,BB,,,(10.00),,,,,,,
+1,Saldo Mês Anteriro,R$0.00,,,Banrisul,-R$ 20.00,-R$ 60.00,,,,Banco do Brasil,R$300.00,,Origem,Banco,Data,Valor/Total,,,Din,-R$30.00,,,Banri,,,(20.00),,,,,,,
+2,Bolsa,R$0.00,,,Dinheiro,-R$ 30.00,-R$ 60.00,,,,Mês Anterior,,,,Banco do Brasil,,R$300.00,,,Total,-R$60.00,,,Din,,,(30.00),,,,,,,
+3,Fluxo,R$0.00,,,,,,,,,Entrada Receita ,R$300.00,,,,,,,,,,,,,,,,,,,,,,
+4,OpVerao,R$0.00,,,,,,,,,Banrisul,R$0.00,,,,,,,,,,,,,,,,,,,,,,
+5,Extra,R$0.00,,,,,,,,,Mês Anterior (dez/17),,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Entrada Receita ,R$0.00,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Dinheiro,R$0.00,,,,,,,,,,,,,,,,,,,,,,
+Gastos Totais,,,R$ 0.00,,Investimento,,,,,,Mês Anterior (dez/17),,,,,,,,,,,,,,,,,,,,,,,
+Gastos Fixos,,,,,Origem,Banco,Valor,,,,Entrada Receita ,R$0.00,,,,,,,,,,,,,,,,,,,,,,
+1,Alimentação,R$0.00,,,,Banco do Brasil,R$50.00,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Habitação,R$0.00,,,,Banrisul,R$40.00,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Despesas Financeiras,R$0.00,,,,Dinheiro,R$30.00,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Subtotal,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gastos Variaveis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Cartão de Crédito,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Refeição,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Bike,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Transporte - App,R$0.00,,,Total,,R$120.00,,,,,,,,,Total,R$300.00,,,,,,,,,,,,,,,,,
+5,Saúde,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Educação,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Cultura e Lazer,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Tranquerias,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Serviços,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Subtotal,R$0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Resultado,,,R$ 0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tipos de Saídas,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tipo de Gastos,Conta,,Cartão de Crédito,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Valores,% sobre total,Valores,% sobre total
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Alimentação,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Habitação,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,Despesas Financeiras,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,Cartão de Crédito,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,Refeição,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,Bike,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,Transporte - App,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,Saúde,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,Educação,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,Cultura e Lazer,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,Tranquerias,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,Serviços,R$0.00,sem gasto,R$0.00,sem gasto
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R$0.00,0.00%,R$0.00,0.00%
